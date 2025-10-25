@@ -1,4 +1,14 @@
-how to do:
+#### WIP
+
+
+### parts (affiliate links):
+
+https://s.click.aliexpress.com/e/_c4MVwhGf > OPTION - 2.4 inch no touch
+
+https://s.click.aliexpress.com/e/_c3lYIFLV
+
+
+### how to do:
 
 download repo
 
